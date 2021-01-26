@@ -1,1 +1,1 @@
-# holbertonschool-zero_day/0x01-emacs/
+Este repositorio es sobre EMACS
