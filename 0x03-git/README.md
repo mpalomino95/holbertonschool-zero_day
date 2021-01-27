@@ -1,1 +1,1 @@
-est e es el directorio de git
+Este es una actualizacion desde la interface de Github para GIT
